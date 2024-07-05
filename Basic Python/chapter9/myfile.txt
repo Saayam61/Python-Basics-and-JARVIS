@@ -1,0 +1,3 @@
+This is writing in file
+This is appending in file
+This is appending in file

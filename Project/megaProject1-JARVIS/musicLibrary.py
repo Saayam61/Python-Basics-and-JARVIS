@@ -1,0 +1,20 @@
+music = {
+    "michael jackson songs": "https://www.youtube.com/watch?v=z1fadkdxAX0",
+    "ac dc songs": "https://www.youtube.com/watch?v=EcyQ1JcOwoY",
+    "queen song": "https://www.youtube.com/watch?v=nkKE1euvHAY",
+    "eminem songs": "https://www.youtube.com/watch?v=z0M_PeOSHVU",
+    "green day songs": "https://www.youtube.com/watch?v=5B7JDVUCTHs",
+    "take me to church": "https://www.youtube.com/watch?v=PVjiKRfKpPI",
+    "shape of you": "https://www.youtube.com/watch?v=JGwWNGJdvx8",
+    "hello": "https://www.youtube.com/watch?v=YQHsXMglC9A",
+    "blinding light": "https://www.youtube.com/watch?v=4NRXx6U8ABQ",
+    "sugar": "https://www.youtube.com/watch?v=09R8_2nJtjg",
+    "levitating": "https://www.youtube.com/watch?v=TUVcZfQe-Kw",
+    "lovely": "https://www.youtube.com/watch?v=V1Pl8CzNzCw",
+    "seven years": "https://www.youtube.com/watch?v=LHCob76kigA",
+    "have you ever seen the rain": "https://www.youtube.com/watch?v=xDGuyGPJ_JE",
+    "is this love": "https://www.youtube.com/watch?v=69RdQFDuYPI",
+    "buffalo soldier": "https://www.youtube.com/watch?v=uMUQMSXLlHM",
+    "american idiot": "https://www.youtube.com/watch?v=Ee_uujKuJMI",
+    "your man": "https://www.youtube.com/watch?v=nADTbWQof7Y"
+}
